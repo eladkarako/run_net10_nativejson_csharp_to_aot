@@ -1,5 +1,14 @@
 obj\Release\net10.0\win-x64\ConsoleApp3.dll
 -o:obj\Release\net10.0\win-x64\native\ConsoleApp3.obj
+-r:C:\Users\Elad\.nuget\packages\json5\1.0.4\lib\net10.0\Json5.dll
+-r:C:\Users\Elad\.nuget\packages\json5.configuration\1.0.4\lib\net10.0\Json5.Configuration.dll
+-r:C:\Users\Elad\.nuget\packages\microsoft.extensions.configuration\10.0.5\lib\net10.0\Microsoft.Extensions.Configuration.dll
+-r:C:\Users\Elad\.nuget\packages\microsoft.extensions.configuration.abstractions\10.0.5\lib\net10.0\Microsoft.Extensions.Configuration.Abstractions.dll
+-r:C:\Users\Elad\.nuget\packages\microsoft.extensions.configuration.fileextensions\10.0.5\lib\net10.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+-r:C:\Users\Elad\.nuget\packages\microsoft.extensions.fileproviders.abstractions\10.0.5\lib\net10.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+-r:C:\Users\Elad\.nuget\packages\microsoft.extensions.fileproviders.physical\10.0.5\lib\net10.0\Microsoft.Extensions.FileProviders.Physical.dll
+-r:C:\Users\Elad\.nuget\packages\microsoft.extensions.filesystemglobbing\10.0.5\lib\net10.0\Microsoft.Extensions.FileSystemGlobbing.dll
+-r:C:\Users\Elad\.nuget\packages\microsoft.extensions.primitives\10.0.5\lib\net10.0\Microsoft.Extensions.Primitives.dll
 -r:C:\Users\Elad\.nuget\packages\microsoft.netcore.app.runtime.nativeaot.win-x64\10.0.7\runtimes\win-x64\lib\net10.0\Microsoft.CSharp.dll
 -r:C:\Users\Elad\.nuget\packages\microsoft.netcore.app.runtime.nativeaot.win-x64\10.0.7\runtimes\win-x64\lib\net10.0\Microsoft.VisualBasic.Core.dll
 -r:C:\Users\Elad\.nuget\packages\microsoft.netcore.app.runtime.nativeaot.win-x64\10.0.7\runtimes\win-x64\lib\net10.0\Microsoft.VisualBasic.dll

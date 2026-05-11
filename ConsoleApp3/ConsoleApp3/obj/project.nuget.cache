@@ -1,17 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "PRhZneLtCkI=",
+  "dgSpecHash": "VIOJ1/KOvW8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Elad\\RiderProjects\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+  "projectFilePath": "C:\\Users\\Elad\\RiderProjects\\run_net10_nativejson_csharp_to_aot\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Elad\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\10.0.7\\microsoft.dotnet.ilcompiler.10.0.7.nupkg.sha512",
-    "C:\\Users\\Elad\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.7\\microsoft.net.illink.tasks.10.0.7.nupkg.sha512",
-    "C:\\Users\\Elad\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\10.0.7\\runtime.win-x64.microsoft.dotnet.ilcompiler.10.0.7.nupkg.sha512",
-    "C:\\Users\\Elad\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\10.0.7\\microsoft.netcore.app.runtime.win-x64.10.0.7.nupkg.sha512",
-    "C:\\Users\\Elad\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\10.0.7\\microsoft.windowsdesktop.app.runtime.win-x64.10.0.7.nupkg.sha512",
-    "C:\\Users\\Elad\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\10.0.7\\microsoft.aspnetcore.app.runtime.win-x64.10.0.7.nupkg.sha512",
-    "C:\\Users\\Elad\\.nuget\\packages\\microsoft.netcore.app.runtime.nativeaot.win-x64\\10.0.7\\microsoft.netcore.app.runtime.nativeaot.win-x64.10.0.7.nupkg.sha512",
-    "C:\\Users\\Elad\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\10.0.7\\runtime.win-x64.microsoft.dotnet.ilcompiler.10.0.7.nupkg.sha512"
+    "C:\\Users\\Elad\\.nuget\\packages\\json5\\1.0.4\\json5.1.0.4.nupkg.sha512",
+    "C:\\Users\\Elad\\.nuget\\packages\\json5.configuration\\1.0.4\\json5.configuration.1.0.4.nupkg.sha512",
+    "C:\\Users\\Elad\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.5\\microsoft.extensions.configuration.10.0.5.nupkg.sha512",
+    "C:\\Users\\Elad\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.5\\microsoft.extensions.configuration.abstractions.10.0.5.nupkg.sha512",
+    "C:\\Users\\Elad\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\10.0.5\\microsoft.extensions.configuration.fileextensions.10.0.5.nupkg.sha512",
+    "C:\\Users\\Elad\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\10.0.5\\microsoft.extensions.fileproviders.abstractions.10.0.5.nupkg.sha512",
+    "C:\\Users\\Elad\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\10.0.5\\microsoft.extensions.fileproviders.physical.10.0.5.nupkg.sha512",
+    "C:\\Users\\Elad\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\10.0.5\\microsoft.extensions.filesystemglobbing.10.0.5.nupkg.sha512",
+    "C:\\Users\\Elad\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.5\\microsoft.extensions.primitives.10.0.5.nupkg.sha512"
   ],
   "logs": []
 }

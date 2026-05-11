@@ -1,1 +1,0 @@
-C:\Users\Elad\RiderProjects\ConsoleApp3\ConsoleApp3\bin\Release\net10.0\win-x64\publish\ConsoleApp3.exe

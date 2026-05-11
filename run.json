@@ -1,0 +1,13 @@
+{
+  "program"          :  "notepad.exe"
+ ,"work_dir"         :  ""
+ ,"args"             :  [
+                         "first"
+                        ,"second"
+                        ]
+ ,"creation_flags"   :  [
+                          "CREATE_NO_WINDOW"
+                         ,"CREATE_NEW_CONSOLE"
+                         ,"DETACHED_PROCESS"
+                        ]
+}
